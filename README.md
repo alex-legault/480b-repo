@@ -28,7 +28,7 @@ __Steps:__
 
 6) working on this part. i am adapting the original scripts and 0xsuid's scripts to work with this repo. so far only have ```0xsuid_stat1.py``` done
 
-```py .\0xsuid_stat.py```
+```py .\0xsuid_stat1.py```
 
 
 __References:__

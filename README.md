@@ -1,6 +1,6 @@
 __Overview__
 
-Running on Windows 10, using GitBash/PowerShell to run these commands. If a command doesn't work on GitBash, try PowerShell. If that doesn't work, cry
+Running on Windows 10, using GitBash/PowerShell to run these commands. If a command doesn't work on GitBash, try PowerShell. If that doesn't work, panic
 
 You may need to install some packages if you are running some scripts. More here: https://pip.pypa.io/en/stable/getting-started/
 
